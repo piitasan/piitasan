@@ -11,7 +11,7 @@
 
 ## 🎓 Education
 
-- Second-Year **Bachelor of Science in Information Technology**  
+- **Bachelor of Science in Information Technology**  
   Specialization: *Animation & Game Development*  
 ---
 
