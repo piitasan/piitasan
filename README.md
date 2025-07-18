@@ -31,40 +31,6 @@
 
 ## 🛠️ Languages & Tools
 
-### 🧑‍💻 Programming Languages (Grouped)
-
-#### 🕹️ Most Used (Core Programming)
-| C# | Java | Python | Binary |
-|----|------|--------|--------|
-| ![C#](https://img.shields.io/badge/C%23-823089?style=flat-square&logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-4584b6?style=flat-square&logo=python&logoColor=white) | ![Binary](https://img.shields.io/badge/Binary-000000?style=flat-square&logoColor=white) |
-
----
-
-#### 🌐 Web Development
-| PHP | HTML | CSS | JavaScript |
-|-----|------|-----|------------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-
----
-
-#### 🗄️ Database & Logic
-| SQL | AutoHotKey | C++ |
-|-----|------------|-----|
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![AutoHotKey](https://img.shields.io/badge/AutoHotKey-334455?style=flat-square&logo=autohotkey&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-
----
-
-### 🚀 Languages I'm Exploring Soon
-
-| Ruby | Lua | TypeScript |
-|------|-----|------------|
-| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-
-| Kotlin | Go | Rust | Swift |
-|--------|----|------|-------|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
-
-
 ### 🧑‍💻 Programming Languages & Markup
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
