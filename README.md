@@ -131,7 +131,7 @@
 
 ---
 
-> 📌 More projects coming soon...
+> 📌 To be updated...
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piitasan&label=Profile+Views&color=0e75b6&style=flat" alt="piitasan" />
