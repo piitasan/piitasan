@@ -87,11 +87,11 @@
 ## 🕒 WakaTime Stats
 
 <p align="center">
-  <!--START_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piitasan&theme=tokyonight&layout=compact" />
-  <!--END_SECTION:waka-->
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
