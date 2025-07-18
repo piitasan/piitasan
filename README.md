@@ -90,6 +90,47 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piitasan&theme=tokyonight&layout=compact" />
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+## 📁 Projects
+
+### 🚧 Ongoing Projects
+
+#### 🗳️ [Mavericks Election System](https://github.com/piitasan/mavericks-election-system)
+**Digital Ballot Management System** is a secure, responsive, web-based voting platform designed for student organizations made by Driven by Maverick Studios.
+
+- 🧱 **Tech Stack**: PHP · MySQL · Bootstrap · JavaScript  
+- 👥 **Role**: Front-End & Back-End Developer
+- ✅ **Status**: In Progress
+- 🔑 **Features**:
+  - Secure voter authentication system
+  - Admin panel for managing users and candidates
+  - Real-time election result tracking
+  - Responsive UI
+
+---
+
+### ✅ Completed Projects
+
+#### 🎮 ForestBorne
+**ForestBorne** is a 2D platformer action-adventure game set deep within the mystical *Whispering Woods*. You play as **Kai**, a lone wanderer drawn by ancient whispers echoing through the trees. Armed with instinct and determination, Kai must explore a forgotten grove, solve hidden mysteries, gather enchanted relics, and battle mimic guardians disguised as treasure chests. ForestBorne combines fast-paced hack-and-slash mechanics with exploration and environmental storytelling to deliver a short but immersive forest-themed journey.
+
+- 🧱 **Tech Stack**: MonoGame XNA Framework · C# · Visual Studio  
+- 👤 **Role**: Lead Game Programmer
+- ✅ **Status**: Completed
+- 🔑 **Features**:
+  - Fast-paced hack-and-slash combat with two unique attack styles.  
+  - Explore forest-themed levels full of secrets, traps, and enemies.  
+  - Story-driven gameplay following Kai's journey through ancient woods.  
+  - Mimic boss fights and enchanted item collection add depth to progression.  
+  - Checkpoint-based save system and hand-drawn sprite animations.
+
+---
+
+> 📌 More projects coming soon...
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piitasan&label=Profile+Views&color=0e75b6&style=flat" alt="piitasan" />
 </p>
