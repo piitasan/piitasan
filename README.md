@@ -11,10 +11,8 @@
 
 ## 🎓 Education
 
-- **Bachelor of Science in Information Technology**  
+- Second-Year **Bachelor of Science in Information Technology**  
   Specialization: *Animation & Game Development*  
-  📍 Philippines
-
 ---
 
 ## 🧠 Technical Background
