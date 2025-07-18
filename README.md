@@ -1,80 +1,75 @@
 <h1 align="center">Hi, I'm Piitasan 👋</h1>
 <p align="center">
-  🎮 Aspiring Game Developer & Web Developer from the Philippines
+  🎮 Aspiring Game Developer & Web Developer from the Philippines  
 </p>
-
----
-
-### 📚 Education
-- 🎓 Bachelor of Science in Information Technology  
-  Specialization: Animation & Game Development
-
----
-
-### 🧠 Technical Background
-
-#### 🎮 Game Development
-- Game Design: Designed a 2D game using **GDevelop** for environmental layout
-- 3D Modeling: Proficient in **Autodesk Maya**
-- Game Engine: Currently learning **Unity** with **C#**
-- Frameworks: Experience with **MonoGame** using **C#** in Visual Studio
-
-#### 🌐 Web Development
-- **Front-End**: HTML, CSS, JavaScript, Bootstrap  
-- **Back-End**: PHP, SQL
-
----
-
-### 🛠️ Languages & Tools
-
-#### 💻 Programming Languages
-- C++
-- C#
-- PHP
-- JavaScript
-
-#### 🧰 Tools & Frameworks
-- MonoGame
-- Unity
-- Bootstrap
-
-#### 🗄️ Databases
-- MySQL
-- MariaDB
-
-#### 🖥️ IDEs & Editors
-- Visual Studio Code
-- Visual Studio
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piitasan&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piitasan&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piitasan&theme=tokyonight" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Specializing+in+Game+Dev+%26+Web+Dev;Always+learning+%F0%9F%93%9A;Building+projects+with+passion+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧩 Projects
+## 🎓 Education
 
-#### 🔨 Ongoing
-
-**[Mavericks Election System](https://github.com/piitasan/mavericks-election-system)**  
-*A peer group project – web-based platform for student elections*  
-- 📌 Features: User registration, admin panel, real-time results, secure authentication  
-- 🛠️ Tech Stack: PHP, MySQL, Bootstrap, JavaScript
-
-#### ✅ Completed
-
-**ForestBorne**  
-*A 2D group game project – Lead Game Developer*  
-- 🧩 Framework: MonoGame XNA  
-- 🧠 Language: C#  
-- 🛠️ Tool: Visual Studio  
+- **Bachelor of Science in Information Technology**  
+  Specialization: *Animation & Game Development*  
+  📍 Philippines
 
 ---
 
-> More projects coming soon...
+## 🧠 Technical Background
+
+### 🎮 Game Development
+- 🧩 2D Game Design: Used **GDevelop** for level layout & prototyping
+- 🧠 3D Modeling: Proficient in **Autodesk Maya**
+- 🕹️ Game Engine: Learning **Unity** with C#
+- 🧱 Framework: Experienced with **MonoGame** (C#) in Visual Studio
+
+### 🌐 Web Development
+- 💡 Front-End: HTML, CSS, JavaScript, Bootstrap
+- 🔧 Back-End: PHP, SQL
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🧑‍💻 Programming & Markup
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧰 Frameworks & Libraries
+![MonoGame](https://img.shields.io/badge/MonoGame-FF6600?style=for-the-badge&logo=monogame&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### 🧪 Tools & IDEs
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piitasan&show_icons=true&theme=tokyonight&hide_title=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piitasan&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🕒 WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piitasan&theme=tokyonight&layout=compact" />
+</p>
+
+```text
+📅 Last 7 days
+⌚ Languages used by time spent
+💻 [WakaTime stats will appear here when connected]
