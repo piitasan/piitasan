@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Piitasan 👋</h1>
+<h1 align="center">Hello!👋</h1>
 <p align="center">
-  🎮 Aspiring Game Developer & Web Developer from the Philippines  
+  🎮 Aspiring Game Developer
 </p>
 
 <p align="center">
@@ -68,8 +68,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piitasan&theme=tokyonight&layout=compact" />
 </p>
-
-```text
-📅 Last 7 days
-⌚ Languages used by time spent
-💻 [WakaTime stats will appear here when connected]
