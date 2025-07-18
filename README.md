@@ -68,3 +68,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piitasan&theme=tokyonight&layout=compact" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piitasan&label=Profile+Views&color=0e75b6&style=flat" alt="piitasan" />
+</p>
