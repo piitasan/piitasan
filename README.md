@@ -100,18 +100,7 @@
 
 ### 🚧 Ongoing Projects
 
-#### 🗳️ [Mavericks Election System](https://github.com/piitasan/mavericks-election-system)
-**Digital Ballot Management System** is a secure, responsive, web-based voting platform designed for student organizations made by Driven by Maverick Studios.
-
-- 🧱 **Tech Stack**: PHP · MySQL · Bootstrap · JavaScript  
-- 👥 **Role**: Front-End & Back-End Developer
-- ✅ **Status**: In Progress
-- 🔑 **Features**:
-  - Secure voter authentication system
-  - Admin panel for managing users and candidates
-  - Real-time election result tracking
-  - Responsive UI
-
+> 📌 To be updated...
 ---
 
 ### ✅ Completed Projects
@@ -129,6 +118,18 @@
   - Mimic boss fights and enchanted item collection add depth to progression.  
   - Checkpoint-based save system and hand-drawn sprite animations.
 
+#### 🗳️ [UniVote](https://github.com/piitasan/mavericks-election-system)
+**UniVote: Digital Ballot Management System** is a secure, responsive, web-based voting platform designed for student organizations made by Driven by Maverick Studios.
+
+- 🧱 **Tech Stack**: PHP · MySQL · Bootstrap · JavaScript  
+- 👥 **Role**: Lead Front-End & Back-End Developer
+- ✅ **Status**: In Progress
+- 🔑 **Features**:
+  - Secure voter authentication system
+  - Admin panel for managing users and candidates
+  - Real-time election result tracking
+  - Responsive UI
+  
 ---
 
 > 📌 To be updated...
