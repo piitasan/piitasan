@@ -101,7 +101,9 @@
 
 ### 🚧 Ongoing Projects
 
-> 📌 To be updated...
+> 📌 Working currently on a personal project that soon to be documented here:
+	- Personal Project 1: pure PHP system. 
+	- Personal Project 2: C# with MonoGame framework (Indie 2D rogue-like strategy based platfomer game)
 ---
 
 ### ✅ Completed Projects
@@ -132,6 +134,8 @@
   - Responsive UI
   
 ---
+
+> And other 4 projects that are not documented here...
 
 > 📌 To be updated...
 
