@@ -102,7 +102,7 @@
 ### 🚧 Ongoing Projects
 
 > 📌 Working currently on a personal project that soon to be documented here:
-	- Personal Project 1: pure PHP with MariaDB SQL web application for business use. 
+	- Personal Project 1: pure PHP with MariaDB for web application for business use. 
 	- Personal Project 2: C# with MonoGame framework (Indie 2D rogue-like strategy based platfomer game)
 ---
 
