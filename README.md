@@ -26,6 +26,7 @@
 ### 🌐 Web Development
 - 💡 Front-End: HTML, CSS, JavaScript, Bootstrap
 - 🔧 Back-End: PHP, SQL
+- Framework: CodeIgniter 4
 
 ---
 
